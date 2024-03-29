@@ -2,7 +2,7 @@
 
 This project explores the fascinating world of cryptography through the lens of the Solitaire Cipher algorithm.
 
-Run `Main.java` to encode / decode;
+Run `Main.java` to encode / decode.
 
 Run `CipherUI` for better visuals ;)
 
