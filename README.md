@@ -2,9 +2,9 @@
 
 This project explores the fascinating world of cryptography through the lens of the Solitaire Cipher algorithm.
 
-Run `Main` to encode / decode.
+Run `Main` to encode / decode with the algorithm.
 
-Run `CipherUI` for better visuals ;)
+Run `CipherUI` for a GUI with better visuals ;)
 
 ## What is the Solitaire Cipher?
 
